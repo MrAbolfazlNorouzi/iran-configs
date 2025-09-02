@@ -1,0 +1,33 @@
+name: Update Configs Hourly
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-configs:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run config fetcher
+      run: python scripts/config_fetcher.py
+
+    - name: Commit and push
+      run: |
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
+        git add configs/working-configs.txt
+        git commit -m "Update configs" || exit 0
+        git push
