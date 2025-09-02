@@ -1,9 +1,13 @@
-name: Update Configs Hourly
+name: Update Configs Every 10 Minutes
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+    - cron: '*/10 * * * *'  # هر 10 دقیقه
+  workflow_dispatch:        # اجرای دستی
+  push:                     # با هر push
+    branches:
+      - main
+      - master
 
 jobs:
   update-configs:
@@ -14,6 +18,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.ACCESS_TOKEN }}
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -26,10 +31,17 @@ jobs:
     - name: Run config fetcher
       run: python scripts/config_fetcher.py
 
-    - name: Commit and push
+    - name: Commit and push changes
       run: |
-        git config user.email "action@github.com"
-        git config user.name "GitHub Action"
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
         git add configs/working-configs.txt
-        git commit -m "Update configs" || exit 0
-        git push
+        
+        # چک کردن اگر تغییری وجود داره
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-update configs $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+          echo "Changes committed and pushed"
+        fi
