@@ -1,95 +1,95 @@
 # Auto-generated vless configs
-# Last update: 2025-09-27 07:52:11
+# Last update: 2025-09-27 07:52:35
 # Total available: 311
 # Randomly selected: 30
 
 # Config 1
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#%28%40v2raytunn%29-%20Germany%20%F0%9F%87%A9%F0%9F%87%AA3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
 
 # Config 2
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#[🇫🇷]t.me/Yasvipn
 
 # Config 3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram
+vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?encryption=none&security=none&type=tcp&headerType=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 
 # Config 4
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#%40Daily_Configs
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=T0jMhYiX8d.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=T0jMhYiX8d.SoLeNtRaA.iNfO#%28%40v2raytunn%29-%20Germany%20%F0%9F%87%A9%F0%9F%87%AA1
 
 # Config 5
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.254.140.15:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=T9cNlMx0Qe.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=T9cNlMx0Qe.SoLeNtRaA.iNfO#%F0%9F%87%BA%F0%9F%87%B8%20%40Kia_Net
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v7.vetrkot.com#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 
 # Config 6
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-
-# Config 7
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#%40v2FreeHub%20%7C%20%F0%9F%87%A8%F0%9F%87%A6
-
-# Config 8
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=&encryption=none&authority=%2F%3F&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%20%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%20%D8%AA%D8%B3%D8%AA%28%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%29%20%F0%9F%87%A9%F0%9F%87%AA%20%40RayphoriaBot
-
-# Config 9
-vless://bb5be5c2-bf5e-4050-8193-eb18f1faa42e@51.210.77.32:24292?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%90%A5%F0%9F%90%A59
-
-# Config 10
-vless://5a846738-daf1-45ee-ab4a-05483bd8dfdd@185.138.164.145:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=0XD-I_UKKectQQI4Wfaivn3Ls_2S2qceti2MQaDB-W4&sid=343af53b0233#%F0%9F%A7%AC32%40oneclickvpnkeys
-
-# Config 11
-vless://22c8c0a3-8b16-4585-8792-09f9f24fad49@am.unibot.monster:443?security=reality&encryption=none&pbk=aFjX3HZJZr6IjvKuTp1s3ZrwkNRj3w-7U1adUROktGM&host=%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=119ac400e658d256#%E2%9A%A1%40Takv2ray_org%20%7C%20NL%20%F0%9F%87%B3%F0%9F%87%B1
-
-# Config 12
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40PLANB_PROXY&fp=chrome&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%E2%AD%90%20The%20Netherlands
-
-# Config 13
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=%2F&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#Telegram+%3A+%40V2rayEnglish
 
-# Config 14
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.154:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#nitru-%F0%9F%87%A8%F0%9F%87%B5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing
+# Config 7
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%81%20TelegramID%20%E2%8C%B2Express_freevpn
 
-# Config 15
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
+# Config 8
+vless://22c8c0a3-8b16-4585-8792-09f9f24fad49@am.unibot.monster:443?security=reality&encryption=none&pbk=aFjX3HZJZr6IjvKuTp1s3ZrwkNRj3w-7U1adUROktGM&host=%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=119ac400e658d256#%E2%9A%A1%40Takv2ray_org%20%7C%20NL%20%F0%9F%87%B3%F0%9F%87%B1
 
-# Config 16
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%A6%85%20United%20States
+# Config 9
+vless://192ea2c7-d7d0-6676-2929-b04a072b387d@103.175.79.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B0%20PK-01%20%28u1047970s3797475p69%29%09
 
-# Config 17
-vless://edd716ae-7d5a-44f7-a0ed-a615eab0c766@141.94.168.171:32647?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%86%8E1
+# Config 10
+vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF
 
-# Config 18
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9F%A1%20ir%2016
-
-# Config 19
-vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%F0%9F%87%A9%F0%9F%87%AA%20Free
-
-# Config 20
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%40Daily_Configs
-
-# Config 21
+# Config 11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%5BTelegram%3Atik7net_vpn%5D
 
+# Config 12
+vless://c0e0f2b4-0550-49b2-8231-efde819bd8e1@178.128.138.210:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=9ikzRJ5rL2e3cErzU03KCM8BkRpgSaWX6bwh9YMCmFY&fp=random&spx=%2F&type=xhttp&sni=google.com&sid=a00a4ad4de#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_Proxy%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
+
+# Config 13
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?encryption=none&security=none&type=grpc#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dt.me%2FRaiv2mmr
+
+# Config 14
+vless://d90a5ec5-e25f-4080-9a77-be1a621dfd7e@141.227.128.48:54214?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram
+
+# Config 15
+vless://bb5be5c2-bf5e-4050-8193-eb18f1faa42e@51.210.77.32:24292?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%90%A5%F0%9F%90%A59
+
+# Config 16
+vless://7e410940-0187-4ddf-b64f-3117f1e12f4f@141.227.130.37:58199?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram
+
+# Config 17
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943040460362238.qazvin-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
+
+# Config 18
+vless://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.168:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh24v3.hiddendom.shop#18%F0%9F%9B%9E%40oneclickvpnkeys
+
+# Config 19
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.254.140.15:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=BtEvEjF8zI.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=BtEvEjF8zI.sOlEnTrAa.InFo#%F0%9F%87%BA%F0%9F%87%B8%20%40Kia_Net%20%F0%9F%91%88%F0%9F%94%BB%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%A9%D8%A8%D8%A7%D9%86%D8%AA%F0%9F%91%88
+
+# Config 20
+vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL%20II
+
+# Config 21
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?secubnmty=nohje&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+
 # Config 22
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=0JtLb8H7bM.sOlEnTrAa.InFo&alpn=h3%2Ch2&fp=chrome&type=ws&host=0JtLb8H7bM.sOlEnTrAa.InFo&path=%2F#%40Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778724075.helsinki-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#Telegram%3A%20%40Daily_Configs
 
 # Config 23
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A7%F0%9F%87%B7%20%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40kia_Net%F0%9F%91%88..%28%F0%9F%87%B1%F0%9F%87%B9%29%E2%81%B4
 
 # Config 24
-vless://de332b56-8cae-4cf7-92a1-19e9f5647ce0@141.227.172.235:57249?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%E2%9D%A4%EF%B8%8F3
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
 
 # Config 25
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20Ultra%20US%20III
+vless://3bba9a08-157f-442b-b814-313e3ec7f350@54.36.117.130:25369?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40best_program4
 
 # Config 26
-vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@ir.fxgoldensignals.com:54567?path=%2F54567%2Fmvfkvk&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%F0%9F%94%A5
+vless://d378d3d0-c521-4874-a6f3-21794398cf9c@109.122.201.171:59697?encryption=none&security=reality&sni=bimeh.com&fp=chrome&pbk=HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg&sid=c5a5b0&spx=%2F&type=xhttp&path=%2F&mode=auto#%40Daily_Configs
 
 # Config 27
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&security=none&encryption=none&type=grpc#TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%86%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
 
 # Config 28
-vless://417dab4b-f2e0-4baf-94d0-6bfbcb1e43a8@51.91.139.99:34309?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%E2%9D%A4%EF%B8%8F2
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
 
 # Config 29
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=gFN06.alanHiAho.Com#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
+vless://c3001ca6-96f6-4c60-833c-4495c0c6951e@54.36.114.253:25369?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40best_program1
 
 # Config 30
-vless://e323c1bf-9e9a-0336-961a-b813ac35fd4b@close-softmeto.ir:80?security=none&encryption=none&type=ws#%40Daily_Configs
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_Proxy%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
 
