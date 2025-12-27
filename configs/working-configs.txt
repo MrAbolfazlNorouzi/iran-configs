@@ -1,95 +1,95 @@
 # Auto-generated vless configs
-# Last update: 2025-12-27 05:24:27
+# Last update: 2025-12-27 05:25:07
 # Total available: 162
 # Randomly selected: 30
 
 # Config 1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://cef12ad2-fb16-4ace-ab26-2a026d40a7d2@de.himikvpn.online:8443/?type=grpc&encryption=none&flow=&sni=sun6-21.userapi.com&fp=random&security=reality&pbk=LB2i67ErtJPlIIDeDHlGvSip6-qPJLH9HzYju5fZ32c&sid=2916#%F0%9F%8E%8127%40oneclickvpnkeys
 
 # Config 2
-vless://0add8d40-58e5-4bdc-8099-10d242f44dd4@83.166.237.115:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%8E%A740%40oneclickvpnkeys
-
-# Config 3
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
-
-# Config 4
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-
-# Config 5
-vless://be66c8de-41f5-465b-a417-37d56547d0c3@ca.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#%F0%9F%87%A8%F0%9F%87%A6%20%40KIA_NET%23%DA%86%D9%86%D9%84
-
-# Config 6
-vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.77:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f4b4a6365558ea2e#%E2%99%A8%EF%B8%8F%20%40PlanB_net%20%D9%85%D9%86%D8%A8%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-# Config 7
-vless://d1623c84-541c-4c49-aea7-0e19b9fe0307@s1.tun.cloudnsas.ir:443?security=&encryption=none&headerType=none&type=tcp#%40Filter_breaker
-
-# Config 8
-vless://be66c8de-41f5-465b-a417-37d56547d0c3@nl2.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20%40KIA_NET%23%DA%86%D9%86%D9%84
-
-# Config 9
-vless://5661d93b-d932-4afa-97d1-c2ac455644d3@139.59.58.120:31855?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20ProxyCloud%20DO%203
-
-# Config 10
-vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL
-
-# Config 11
-vless://493d5565-9c06-4d2f-a252-cbd9d2be3516@ru2.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=www.vk.com&fp=chrome&security=reality&pbk=-JG4SeIwmtWW0WiLhtmI_7OxCfccenm1LLcBXmkcq08&sid=5c835824f579#%F0%9F%8E%8124%40oneclickvpnkeys
-
-# Config 12
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?security=tls&encryption=none&type=ws&path=%2Fyhowcws&host=azizoarjmand.info&sni=azizoarjmand.info#
-
-# Config 13
-vless://4289b2ad-26e7-4154-9259-89292aa3a7fe@51.250.74.53:4241/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%8E%A739%40oneclickvpnkeys
-
-# Config 14
-vless://f2309653-bfe7-43ff-83fc-784b06210bfa@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&spx=%2Fjoin---MTMVPN---join---MTMVPN---join---MTMVPN---join---MTMVPN---join---MTMVPN---join---MTMVPN---join---MTMVPN----join---MTMVPN&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=33554379411b3219#telegram%20%40mtmvpn
-
-# Config 15
-vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%202%20-%20ProxyCloud
-
-# Config 16
-vless://45933ac0-406f-40a6-bae0-5a6ccbba194c@91.107.243.172:10078?mode=gun&security=none&encryption=none&type=grpc&serviceName=Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--#%40Vpn_Sky%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-# Config 17
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-
-# Config 18
-vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe&security=tls&encryption=none&host=black.fullmargintraders.com&type=ws&sni=black.fullmargintraders.com#%F0%9F%87%A9%F0%9F%87%AA%20%D9%86%D9%88%D9%87%20%D9%87%DB%8C%D8%AA%D9%84%D8%B1
-
-# Config 19
-vless://f788e136-b245-4617-9d41-b505c7f41ef9@deu196.unboundaccess.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#%F0%9F%87%A9%F0%9F%87%AA%20G
-
-# Config 20
-vless://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443/?type=ws&encryption=none&flow=&host=seashell.qzz.io&path=%2F156.254.114.120%3A30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#%F0%9F%8E%A711%40oneclickvpnkeys
-
-# Config 21
-vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF
-
-# Config 22
-vless://14eba471-4623-4ed1-b937-f5b2206749bf@magazine.sentry-warrunner.xyz:443?mode=gun&security=reality&encryption=none&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&fp=chrome&type=grpc&serviceName=Telegram-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers&sni=miro.com&sid=1c547814#%F0%9F%87%A9%F0%9F%87%AA%20DE%20by%20HELIX%20Servers
-
-# Config 23
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
-
-# Config 24
 vless://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443/?type=ws&encryption=none&flow=&host=tronblue.qzz.io&path=%2F43.218.77.16%3D1443&security=tls&sni=tronblue.qzz.io&allowInsecure=1#%F0%9F%8E%A712%40oneclickvpnkeys
 
+# Config 3
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+
+# Config 4
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&security=&encryption=none&type=grpc#@Enzewa_Networkجوین‌شوقطع‌نشی
+
+# Config 5
+vless://f2309653-bfe7-43ff-83fc-784b06210bfa@84.252.139.253:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=4b523a98e1bbd15b#%40Daily_Configs
+
+# Config 6
+vless://14eba471-4623-4ed1-b937-f5b2206749bf@91.99.168.213:443?mode=gun&security=reality&encryption=none&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&fp=chrome&type=grpc&serviceName=Telegram-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers&sni=miro.com&sid=1c547814#%F0%9F%87%A9%F0%9F%87%AA%20DE%20by%20%40oneclickvpnkeys
+
+# Config 7
+vless://0261c8f9-413a-455b-942b-3713c6b0084a@172.66.40.99:443?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.dollardoon.com&fp=chrome&type=ws&sni=www.dollardoon.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%F0%9F%97%BF
+
+# Config 8
+vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%97%BF
+
+# Config 9
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+
+# Config 10
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh27v6.carwashipdir.shop#@Enzewa_Networkعضوشوقطع‌نشی
+
+# Config 11
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
+
+# Config 12
+vless://d4a9e115-ba79-4b04-841d-313f1ffab307@subhol.abbvest.in:443?path=%2FxYzAbc123&security=tls&encryption=none&insecure=0&host=hol.karwashnet.com&fp=chrome&type=ws&allowInsecure=0&sni=hol.karwashnet.com#
+
+# Config 13
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20PC%20US
+
+# Config 14
+vless://68897862-05f8-40cf-bf4b-a176d185547e@tunnyl.ru:443?security=reality&encryption=none&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&headerType=&fp=random&spx=%2F&type=tcp&sni=google.com&sid=0f1d6a#@Enzewa_Network
+
+# Config 15
+vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20ProxyCloud%20DO
+
+# Config 16
+vless://be66c8de-41f5-465b-a417-37d56547d0c3@pl.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#%F0%9F%87%B5%F0%9F%87%B1%20%40KIA_NET%23%DA%86%D9%86%D9%84
+
+# Config 17
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20US%20%F0%9F%91%BB
+
+# Config 18
+vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D9%87%D9%84%D9%86%D8%AF%29
+
+# Config 19
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Germany%F0%9F%87%A9%F0%9F%87%AA
+
+# Config 20
+vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2FPVlCNDt9CiMEktH3%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+
+# Config 21
+vless://be66c8de-41f5-465b-a417-37d56547d0c3@ca.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#%F0%9F%87%A8%F0%9F%87%A6%20%40KIA_NET%23%DA%86%D9%86%D9%84
+
+# Config 22
+vless://be66c8de-41f5-465b-a417-37d56547d0c3@nl2.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20%40KIA_NET%23%DA%86%D9%86%D9%84
+
+# Config 23
+vless://77550287-7875-4b45-b03e-6968074a1f68@auth.cometatech.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=chrome&security=reality&pbk=fcPttS39Xqn_zD3p0tAhCf1kdiT5Si8B5kmYZE2xfhM&sid=f99d367c4de3#%F0%9F%8E%A7w31%40oneclickvpnkeys
+
+# Config 24
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Z
+
 # Config 25
-vless://ffaab2f1-8d78-441a-b910-e8127dd3edb2@51.250.28.71:443?security=&encryption=none&headerType=none&type=tcp#@Enzewa_Network
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v4.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20Ultra%20US%20II
 
 # Config 26
-vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL%20II
+vless://12c04e26-9bbd-46e0-9972-c131294e4f6e@vpn-free-2.baikal.dev:443?encryption=none&security=reality&sni=nod-f2.irkutsk.online&fp=chrome&pbk=nDudcq4Mop7eRwoa-Q-FxwzNiYjiNu5lNpOUg17jeFY&sid=8a6a&spx=%2F&type=xhttp&path=%2F&mode=auto#%40Filter_breaker
 
 # Config 27
-vless://be66c8de-41f5-465b-a417-37d56547d0c3@de2.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20%40KIA_NET%23%DA%86%D9%86%D9%84
+vless://5661d93b-d932-4afa-97d1-c2ac455644d3@139.59.58.120:31855?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20ProxyCloud%20DO%203
 
 # Config 28
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20X
+vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%87%B7%F0%9F%87%BA%20NL%20-%20Russia
 
 # Config 29
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Germany%F0%9F%87%A9%F0%9F%87%AA
+vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443/?type=ws&encryption=none&flow=&host=ziyong.boringdad.netlib.re&path=%2F&security=tls&sni=ziyong.boringdad.netlib.re&allowInsecure=1&fp=chrome#%F0%9F%8E%A715%40oneclickvpnkeys
 
 # Config 30
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%40Filter_breaker
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed&security=tls&sni=sni.111000.dynv6.net&fp=chrome#%F0%9F%8E%8125%40oneclickvpnkeys
 
