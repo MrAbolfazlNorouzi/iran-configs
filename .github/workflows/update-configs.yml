@@ -26,7 +26,9 @@ jobs:
         python-version: '3.9'
 
     - name: Install dependencies
-      run: pip install requests
+      run:|
+      python -m pip install --upgrade pip
+      pip install -r requirements.txt
 
     - name: Run config fetcher
       run: python scripts/config_fetcher.py
