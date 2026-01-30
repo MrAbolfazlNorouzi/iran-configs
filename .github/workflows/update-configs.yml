@@ -2,9 +2,9 @@ name: Update Configs Every 10 Minutes
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # هر 10 دقیقه
-  workflow_dispatch:        # اجرای دستی
-  push:                     # با هر push
+    - cron: '*/10 * * * *'   # هر ۱۰ دقیقه اجرا شود
+  workflow_dispatch:         # امکان اجرای دستی از تب Actions
+  push:                      # با هر push روی main/master
     branches:
       - main
       - master
@@ -12,38 +12,42 @@ on:
 jobs:
   update-configs:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.ACCESS_TOKEN }}
-        fetch-depth: 0
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
 
-    - name: Install dependencies
-      run:|
-      python -m pip install --upgrade pip
-      pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Run config fetcher
-      run: python scripts/config_fetcher.py
+      - name: Check installed packages (debug)
+        run: |
+          pip list | grep -i "requests\|singbox2proxy" || echo "No matching packages found"
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.name "GitHub Action"
-        git config --global user.email "action@github.com"
-        git add configs/working-configs.txt
-        
-        # چک کردن اگر تغییری وجود داره
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Auto-update configs $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
-          echo "Changes committed and pushed"
-        fi
+      - name: Run config fetcher
+        run: python scripts/config_fetcher.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add configs/working-configs.txt
+
+          # اگر تغییری وجود نداشت، commit نکن
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update configs $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+            echo "Changes committed and pushed"
+          fi
