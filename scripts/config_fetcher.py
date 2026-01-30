@@ -3,7 +3,7 @@ import random
 import re
 import time
 from datetime import datetime
-from v2ray2proxy import V2RayProxy  # اضافه شده برای تست
+from singbox2proxy import SingBoxProxy  # جایگزین v2ray2proxy با singbox2proxy (بهتر و بروزتر)
 
 def fetch_configs_from_urls(url_list):
     """Fetch configs from multiple URLs"""
@@ -18,8 +18,8 @@ def fetch_configs_from_urls(url_list):
             response = requests.get(url, headers=headers, timeout=20)
            
             if response.status_code == 200:
-                # پیدا کردن تمام کانفیگ‌های vless با regex بهبود یافته
-                vless_pattern = r'vless://[a-zA-Z0-9-@.:?=&%#/_]+'
+                # پیدا کردن تمام کانفیگ‌های vless با regex بهبود یافته (تا #remark رو هم بگیره)
+                vless_pattern = r'vless://[^\s#]+(?:#[^\s]*)?'
                 vless_configs = re.findall(vless_pattern, response.text)
                
                 # همچنین خط به خط بررسی کنیم
@@ -50,7 +50,7 @@ def fetch_configs_from_urls(url_list):
     return all_configs
 
 def is_valid_vless(config):
-    """Check if a vless config is valid"""
+    """Check if a vless config is valid - بهبود یافته با چک reality (برای کار در ایران)"""
     try:
         if not config.startswith('vless://'):
             return False
@@ -65,9 +65,13 @@ def is_valid_vless(config):
             return False
        
         uuid_part = parts[0]
-        if len(uuid_part) < 30: # حداقل طول UUID
+        if len(uuid_part) < 30:  # حداقل طول UUID
             return False
-       
+        
+        # چک اضافی: برای ایران، reality یا tls بهتره باشه
+        if 'security=reality' not in config.lower() and 'security=tls' not in config.lower():
+            return False  # فقط کانفیگ‌های امن رو نگه دار
+        
         return True
        
     except:
@@ -76,13 +80,13 @@ def is_valid_vless(config):
 def test_vless_config(config):
     """Test if vless config works with Iranian internet by making a request"""
     try:
-        proxy = V2RayProxy(config)  # تبدیل vless به proxy محلی
+        proxy = SingBoxProxy(config)  # تبدیل vless به proxy محلی با singbox
         try:
             proxies = {
                 "http": proxy.http_proxy_url,
                 "https": proxy.http_proxy_url
             }
-            # تست request به سایت خارجی (چک IP)
+            # تست request به سایت خارجی (چک IP) - اگر نت محدود باشه، این چک می‌کنه رد می‌شه یا نه
             response = requests.get("https://api.ipify.org?format=json", proxies=proxies, timeout=10)
             if response.status_code == 200 and "ip" in response.json():
                 print(f"Config works: {config[:50]}...")  # بخشی از کانفیگ برای لوگ
@@ -94,13 +98,15 @@ def test_vless_config(config):
     return False
 
 def main():
-    # لیست منابع کانفیگ (منابع بهتر اضافه کردم بر اساس جستجوهای اخیر)
+    # لیست منابع کانفیگ (بروزرسانی شده با منابع کارآمد ۲۰۲۶ بر اساس جستجوهای اخیر - تمرکز روی ایران و free)
     config_urls = [
-        "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
-        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/normal/vless",
-        "https://raw.githubusercontent.com/10ium/V2Hub3/main/Split/Normal/reality",
-        "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt",  # منبع خوب
-        "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vless.txt",  # منبع تازه
+        "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/configs/vless.txt",  # از Epodonios
+        "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt",  # از barry-far
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt",  # از MatinGhanbari
+        "https://raw.githubusercontent.com/morteza-v2/free-v2ray-irancell-config/main/configs/vless",  # برای ایرانسل
+        "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/vless",  # از yebekhe (بروزرسانی مکرر)
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/normal/vless",  # منبع قبلی کاربر
+        "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vless.txt",  # منبع aggregator
     ]
    
     print("Fetching configs from sources...")
@@ -110,7 +116,7 @@ def main():
    
     if not all_configs:
         print("No configs found! Using sample configs as fallback.")
-        # نمونه کانفیگ‌های پشتیبان (این‌ها رو خودت با واقعی جایگزین کن اگر کار می‌کنن)
+        # نمونه کانفیگ‌های پشتیبان (این‌ها رو خودت با واقعی جایگزین کن اگر کار می‌کنن - با reality برای ایران)
         all_configs = [
             "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880/?type=grpc&encryption=none&flow=#Test-Config-1",
             "vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Test-Config-2",
