@@ -97,8 +97,8 @@ def main():
     # لیست منابع کانفیگ (منابع بهتر اضافه کردم بر اساس جستجوهای اخیر)
     config_urls = [
         "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
-        "https://raw.githubusercontent.com/code3-dev/v-data/refs/heads/main/vip",
-        "https://raw.githubusercontent.com/10ium/HiN-VPN/refs/heads/main/subscription/base64/vless",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/normal/vless",
+        "https://raw.githubusercontent.com/10ium/V2Hub3/main/Split/Normal/reality",
         "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt",  # منبع خوب
         "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vless.txt",  # منبع تازه
     ]
