@@ -1,95 +1,35 @@
 # Auto-generated vless configs
-# Last update: 2026-05-31 14:08:21
-# Total working: 226
-# Randomly selected: 30
+# Last update: 2026-05-31 14:23:28
+# Total working: 10
+# Randomly selected: 10
 
 # Config 1
-vless://9a84e4a2-731d-4dd5-a22d-796c7a345e39@www.speedtest.net:443?encryption=none&amp%3Bsecurity=tls&amp%3Bsni=v4.kiava.workers.dev&amp%3Btype=ws&amp%3Bhost=v4.kiava.workers.dev&amp%3Bpath=/aboutws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ray4win%20%231
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=v2raynplus-v2raynplus-v2raynplus&amp%3BheaderType=none&amp%3Btype=tcp&amp%3BallowInsecure=1&amp%3Bsni=de1.fromblancwithlove.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40freevirgoolnet%20%231
 
 # Config 2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.59.70:2053?path=/9wUhFMKgsGMqAUO6%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=mAHdIserveR-asL.paGES.dEv&amp%3Bfp=randomized&amp%3Btype=ws&amp%3Bsni=MaHdisErVEr-asl.pAGEs.DEv#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40iran_access%20%232
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g10.steptofsvo.com:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=g10.steptofsvo.com&amp%3Bsid=6d6f13013d3e1d0c#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40filtershekan_channel%20%231
 
 # Config 3
-vless://266f49ab-e823-4497-b7a9-78ff51809f2d@104.18.32.47:2096?mode=gun&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bfp=chrome&amp%3Btype=grpc&amp%3BserviceName=asriran.com.tasnimnews.com.sharghdaily.com.entekhab.ir.farsnews.ir.isna.ir.irdiplomacy.ir&amp%3BallowInsecure=0&amp%3Bsni=bItTEr-BreADh48GRdp1Bf.cARBONBLacKBMW.IR#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40filtershekan_channel%20%231
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&amp%3Bencryption=none&amp%3Bpbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Bspx=/&amp%3Btype=tcp&amp%3Bsni=yahoo.com&amp%3Bsid=f71c22#%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20VLESS%20%7C%20%40megavpn_link%20%231
 
 # Config 4
-vless://396c904b-4b62-4334-b793-ee25fc0c61cc@188.114.96.3:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&amp%3Btype=ws&amp%3Bsni=pages.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40red2ray%20%233
-
-# Config 5
-vless://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443?path=/Telegram-mtmvpn_mtmvpn%3Fed%3D512&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ra_ng_iran%20%231
-
-# Config 6
-vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=tfs733.pages.dev&amp%3Btype=ws&amp%3Bsni=pages.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40mt_proxy%20%231
-
-# Config 7
-vless://a75cb418-c1d6-476a-9464-ad1bd5181e3c@discord.gg:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=e.vpncustomize.Website&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=de.vpncustomize.Website#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40garnet_free%20%232
-
-# Config 8
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@198.41.202.5:443?path=/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=3k.pureboy.eu.org&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=3k.pureboy.eu.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40renetvpn%20%231
-
-# Config 9
-vless://01c0530f-168d-4645-a74c-f2b3b015c217@77.90.60.136:2053?security=reality&amp%3Bencryption=none&amp%3Bpbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&amp%3BheaderType=none&amp%3Bfp=random&amp%3Bspx=/&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=jhol.in&amp%3Bsid=b85e293fa1#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40turboo_server%20%231
-
-# Config 10
-vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?type=ws&amp%3Bpath=/&amp%3Bhost=capitalnet.sameasyou.sbs&amp%3Bsecurity=tls&amp%3Bfp=firefox&amp%3Balpn=h2%2Chttp/1.1&amp%3Bsni=joinchannel.sameasyou.sbs#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40jokerv2ray%20%231
-
-# Config 11
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?note=---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---&amp%3Bpath=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Btype=ws&amp%3Bsni=sni.111000.dynv6.net#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40v2raytg%20%231
-
-# Config 12
-vless://45948c7b-cd85-4040-92b2-9e634e9ddd52@104.21.62.144:443?type=xhttp&amp%3Bpath=/Sauron/&amp%3Bmode=auto&amp%3Bsecurity=tls&amp%3Bfp=randomized&amp%3Balpn=h3%2Ch2%2Chttp/1.1&amp%3BallowInsecure=1&amp%3Bsni=sauron.melkore.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40proxie%20%232
-
-# Config 13
-vless://7813f715-ad8c-45e4-91ac-6a904ef94d88@45.150.32.79:8443?security=reality&amp%3Bencryption=none&amp%3Bpbk=4JX3sznUkBsL3T4rl3yEFWj9Cw4Sgw5KYbJVxZ9K9hY&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=www.tradingview.com&amp%3Bsid=178c10906d0f395b#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40rez1vpn%20%231
-
-# Config 14
-vless://8a812634-eebb-4aab-998c-311cd14ad745@190.93.247.155:2083?mode=gun&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2&amp%3Bfp=chrome&amp%3Btype=grpc&amp%3BserviceName=%40LIGHTNING6%2C#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40nepo_v2ray%20%236
-
-# Config 15
-vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=3e8B07A5.PUb000bpB.PAGes.Dev&amp%3Btype=ws&amp%3Bsni=3e8B07A5.PUb000bpB.PAGes.Dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40merdesert%20%231
-
-# Config 16
-vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&amp%3Bsecurity=tls&amp%3Balpn=h2&amp%3Bencryption=none&amp%3Bextra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&amp%3Bhost=ax.tan3.ir&amp%3Bfp=chrome&amp%3Btype=xhttp&amp%3Bsni=ax.tan3.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40orange_vpns%20%231
-
-# Config 17
 vless://439f353b-b52f-4355-93d8-26e0567d5308@193.163.203.76:50592?security=reality&amp%3Bencryption=none&amp%3Bpbk=kATzSBDyNkm6Ee7p8Ad8iPD5CrJmkJ5n1T-l-LCRmXQ&amp%3BheaderType=none&amp%3Bfp=qq&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=api-maps.yandex.ru&amp%3Bsid=b7ca855a4763a7ac#%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20VLESS%20%7C%20%40free1_vpn%20%231
 
-# Config 18
-vless://1b6dc7d3-df80-446b-95d3-694891bae24b@91.107.140.160:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=Efid51phV7wQ6vF48DC97364AyVl7tQa22ILzIOLYgg&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Bspx=/bW4zi7XBC5fja7v&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=aws.amazon.com&amp%3Bsid=c843#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40v2aryng_vpn%20%231
+# Config 5
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576/?type=tcp&amp%3Bencryption=none&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=fuck.rkn&amp%3Bfp=chrome&amp%3Bsecurity=reality&amp%3Bpbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp%3Bsid=01#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40netfreedom0%20%231
 
-# Config 19
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.177:443?type=ws&amp%3Bsecurity=tls&amp%3Bhost=Tahagoogooli.ir&amp%3Bpath=/veNbt06rF0tTFtp6/MTcyLjY0LjEzNC41OA%3D%3D%3Fed%3D2560&amp%3Bfp=randomized&amp%3Bsni=SpEedteST.NET&amp%3Balpn=h2%2Chttp/1.1#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40buffalo_vpn%20%231
+# Config 6
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20%40vmesc%20%231
 
-# Config 20
-vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@www.visa.com.sg:8443?path=Tel-proxy_mtm/%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=pardazesh-tgws.pages.dev&amp%3Bfp=random&amp%3Btype=ws&amp%3Bsni=pardazesh-tgws.pages.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40torang_vpn%20%231
+# Config 7
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&amp%3Bencryption=none&amp%3Bpbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=fuck.rkn&amp%3Bsid=01#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40freeconfigsplus%20%231
 
-# Config 21
-vless://0ff8dbfb-d7ee-4a19-b22d-b652a8b52e22@212.111.84.82:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=m.vk.ru&amp%3Bsid=f4b4a6365558ea2e#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20%7C%20VLESS%20%7C%20%40red2ray%20%231
+# Config 8
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3BheaderType=none&amp%3Btype=tcp&amp%3BallowInsecure=0&amp%3Bsni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40rez1vpn%20%231
 
-# Config 22
-vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.18.120.34:8443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=superconducting.turboo-server.space&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=superconducting.turboo-server.space#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40turboo_server%20%235
+# Config 9
+vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Bspx=/&amp%3Btype=tcp&amp%3Bsni=yahoo.com&amp%3Bsid=8735#%F0%9F%87%AE%F0%9F%87%B1%20IL%20%7C%20VLESS%20%7C%20%40v2aryng_vpn%20%231
 
-# Config 23
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=3k.pureboy.eu.org&amp%3Btype=ws&amp%3Bsni=3k.pureboy.eu.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40miov2ray%20%231
-
-# Config 24
-vless://266169d9-665f-4fed-b1a8-da29794ee3cd@berovps.masoodbiranvand-230.workers.dev:2083?path=vless-ws/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2&amp%3Bhost=berovps.masoodbiranvand-230.workers.dev&amp%3Bfp=randomized&amp%3Btype=ws&amp%3Bsni=berovps.masoodbiranvand-230.workers.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2raybe%20%232
-
-# Config 25
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&amp%3Bpath=/de&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bfp=chrome&amp%3Btype=xhttp&amp%3BallowInsecure=0&amp%3Bsni=de.xn--q9jyb4c.online#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40father_vpn%20%231
-
-# Config 26
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&amp%3Bpath=/de&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=de.lezzatzone.ir&amp%3Bfp=chrome&amp%3Btype=xhttp&amp%3BallowInsecure=0&amp%3Bsni=de.lezzatzone.ir#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40ai_duet%20%231
-
-# Config 27
-vless://b8debe38-3858-4a7e-9bfc-ee090ac7597b@sadaf.melorin.mehrdadsadaf.com:80?mode=gun&amp%3Bsecurity=reality&amp%3Bencryption=none&amp%3Bpbk=U27aXgEDWdrPwlPOLK3XGi5MzTtnYicnSHhbtBUyKBY&amp%3Bfp=chrome&amp%3Bspx=/&amp%3Btype=grpc&amp%3BserviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&amp%3Bsni=dash.cloudflare.com&amp%3Bsid=73c901c5#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20%40nn_vpn%20%232
-
-# Config 28
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=sni.111000.indevs.in&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sni.111000.indevs.in#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vmesc%20%231
-
-# Config 29
-vless://598cbaec-00f6-4d84-8644-b35fdcec6904@104.198.14.52:443?mode=auto&amp%3Bpath=/IR-NETLIFY&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Bextra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingKey%22%3A%22iran%22%2C%22xPaddingHeader%22%3A%22iran%22%2C%22headers%22%3A%7B%22x-host%22%3A%22http%3A//str.fiathusen.homes%3A444%22%7D%7D&amp%3Binsecure=1&amp%3Bhost=100fastcash.com&amp%3Bfp=chrome&amp%3Btype=xhttp&amp%3BallowInsecure=1&amp%3Bsni=104.198.14.52#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40vpnowl%20%231
-
-# Config 30
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.174.245:22224?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/telegram-channel-vlessconfig&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40vlessconfig%20%232
+# Config 10
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&amp%3Balpn=h2&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=uk1.fromblancwithlove.com#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%231
 
